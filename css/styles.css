@@ -1,3 +1,10 @@
 p{
   display: none;
 }
+h1{
+  text-align: center;
+}
+
+.panel{
+  width: 400px;
+}
